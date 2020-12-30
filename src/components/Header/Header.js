@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import './style.css';
 
 class Header extends Component {
     constructor() {
         super();
 
         this.state = {
-            home: "nav-item active",
-            portfolio: "nav-item",
-            contact: "nav-item"
+            home: "nav-item active li-header",
+            portfolio: "nav-item li-header",
+            contact: "nav-item li-header"
         }
     }
     render() {
