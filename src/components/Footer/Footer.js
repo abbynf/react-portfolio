@@ -4,7 +4,7 @@ import './style.css';
 function Footer() {
     return (
         <footer>
-            <div className="footer pb-2 pt-1">
+            <div className="footer pb-2 pt-1 navbar navbar-fixed-bottom ">
                 <a href="https://github.com/abbynf" className="footer-link">abbynf</a>
                 <p className="m-0">Contact me at abbynfrandsen@gmail.com</p>
             </div>
