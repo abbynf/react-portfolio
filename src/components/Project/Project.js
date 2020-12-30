@@ -4,11 +4,11 @@ import TechItem from './../TechItem';
 import './style.css';
 
 class Project extends Component {
-    
+
     render() {
-        
+
         console.log(this.props)
-        
+
         return (
             <div class="row">
                 <div class="col-12">
@@ -42,13 +42,21 @@ class Project extends Component {
 
                                         <div class="col">
                                             <ul class="card-text">
-                                                <TechItem text={this.props.techitems1}/>
+                                                {this.props.techitems1.map((listItem) => {
+                                                    return (
+                                                        <TechItem text={listItem} />
+                                                    )
+                                                })}
                                             </ul>
 
                                         </div>
                                         <div class="col">
                                             <ul class="card-text">
-                                                <TechItem text={this.props.techitems2}/>
+                                                {this.props.techitems2.map((listItem) => {
+                                                    return (
+                                                        <TechItem text={listItem} />
+                                                    )
+                                                })}
                                             </ul>
                                         </div>
                                     </div>
