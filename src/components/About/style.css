@@ -1,0 +1,46 @@
+.hrAbout {
+    width: 80%;
+    background-color: gray;
+    border: 10px;
+    height: 3px;
+}
+
+.aboutContainer {
+    max-width: 100%;
+}
+
+.aboutHead {
+    font-size: 5rem;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.headshot {
+    max-width: 315px;
+    height: auto;
+    border-radius: 50%;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.listContainer {
+    margin: 5px;
+    height: 100%;
+}
+
+.opaque {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media only screen and (max-width: 668px) {
+    .aboutHead {
+        font-size: 3rem;
+        padding-bottom: 20px;
+    }
+    .bio {
+        font-size: 1rem;
+    }
+}

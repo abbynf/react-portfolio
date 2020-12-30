@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
     background-image: url(./assets/back-img/smaller-berger.jpg);
@@ -26,6 +27,11 @@ h2 {
     /* font-size: 2em; */
     text-shadow: 2px 2px black;
 }
+
+h4, p, a {
+    font-family: 'Roboto', sans-serif;
+}
+
 
 @media only screen and (max-width: 668px) {
     h1 {
