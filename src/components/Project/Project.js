@@ -65,8 +65,8 @@ class Project extends Component {
                                 </div>
 
                             </div>
-                            <a href={this.props.applicationLink} className="btn portfolioButton" target="_blank">Access application</a>
-                            <a href={this.props.repoLink} className="btn portfolioButton" target="_blank">Visit repository</a>
+                            <a href={this.props.applicationLink} className="btn portfolioButton m-1" target="_blank">Access application</a>
+                            <a href={this.props.repoLink} className="btn portfolioButton m-1" target="_blank">Visit repository</a>
                         </div>
                     </div>
                 </div>

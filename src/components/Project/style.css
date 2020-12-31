@@ -1,3 +1,42 @@
 .project {
     color: green;
 }
+
+.card {
+    background-color: darkgray;
+    /* could be replaced by bootstrap class */
+    margin-bottom: 20px;
+}
+
+.card-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-img-top {
+    border: gray solid 1px;
+}
+
+.portHr {
+    height: 2px;
+    background-color: #3d3d3d;
+    border-radius: 10px;
+    width: 85%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card-opaque {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 5px 5px 7px grey, -5px 5px 7px grey;
+    padding: 13px;
+    border-radius: 5px;
+}
+
+.portfolioButton {
+    background-color: #303048;
+    color: white;
+}
+
+.portfolioButton:hover {
+    color: gray;
+}
