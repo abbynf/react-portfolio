@@ -6,7 +6,7 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faPhone } from '@fortawesome/free-solid-svg-icons'
 
 class Contact extends Component {
-    constructor(){
+    constructor() {
         super();
         this.state = {
             methods: [
@@ -42,11 +42,20 @@ class Contact extends Component {
         }
     }
 
-    render(){
+    render() {
         return (
-            <div>
-                <h1>Contact Me</h1>
-                {/* <Method icon={faEnvelopeSquare}/> */}
+            <div className="container text-white text-center">
+                <header className="row">
+                    <div className="col">
+                        <h1 className="portHead" id="pushDown">Contact Me</h1>
+                    </div>
+                </header>
+                <main className="row">
+
+                    <Method />
+
+                </main>
+
             </div>
 
         );
