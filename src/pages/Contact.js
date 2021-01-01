@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Method from './../components/Method';
 import { faEnvelopeSquare } from '@fortawesome/free-solid-svg-icons'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
 import { faPhone } from '@fortawesome/free-solid-svg-icons'
 
 class Contact extends Component {
@@ -27,7 +27,7 @@ class Contact extends Component {
                 {
                     id: 2,
                     link: "https://www.linkedin.com/in/abby-frandsen-815a44158/",
-                    icon: faLinkedin,
+                    icon: faLinkedinIn,
                     title: "LinkedIn",
                     handle: "My Linkedin Profile"
                 },
