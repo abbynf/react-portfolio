@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.03fe0038.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.03fe0038.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.984efb39.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.984efb39.js.map",
-    "static/js/2.ded37f8f.chunk.js": "/react-portfolio/static/js/2.ded37f8f.chunk.js",
-    "static/js/2.ded37f8f.chunk.js.map": "/react-portfolio/static/js/2.ded37f8f.chunk.js.map",
-    "static/js/3.e6a904dc.chunk.js": "/react-portfolio/static/js/3.e6a904dc.chunk.js",
-    "static/js/3.e6a904dc.chunk.js.map": "/react-portfolio/static/js/3.e6a904dc.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.6a89de99.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.c9b3e645.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c9b3e645.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7686de59.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7686de59.js.map",
+    "static/css/2.95f25948.chunk.css": "/react-portfolio/static/css/2.95f25948.chunk.css",
+    "static/js/2.86a6259a.chunk.js": "/react-portfolio/static/js/2.86a6259a.chunk.js",
+    "static/js/2.86a6259a.chunk.js.map": "/react-portfolio/static/js/2.86a6259a.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/react-portfolio/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.ded37f8f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ded37f8f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/2.95f25948.chunk.css.map": "/react-portfolio/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.6a89de99.chunk.css.map": "/react-portfolio/static/css/main.6a89de99.chunk.css.map",
+    "static/js/2.86a6259a.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.86a6259a.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker-landing.940c57a5.png": "/react-portfolio/static/media/Budget-Tracker-landing.940c57a5.png",
+    "static/media/Budget-Tracker-sw.20c7c3ad.png": "/react-portfolio/static/media/Budget-Tracker-sw.20c7c3ad.png",
+    "static/media/brick-headshot.7bd671d8.png": "/react-portfolio/static/media/brick-headshot.7bd671d8.png",
+    "static/media/invitr-landing-page.f0c28c0e.png": "/react-portfolio/static/media/invitr-landing-page.f0c28c0e.png",
+    "static/media/invitr-summary.b4b8e9da.png": "/react-portfolio/static/media/invitr-summary.b4b8e9da.png",
+    "static/media/national-parks-app-cards.6afb4125.png": "/react-portfolio/static/media/national-parks-app-cards.6afb4125.png",
+    "static/media/national-parks-app.a4041248.png": "/react-portfolio/static/media/national-parks-app.a4041248.png",
+    "static/media/App.css": "/react-portfolio/static/media/smaller-berger.f17bf190.jpg",
+    "static/media/workout-tracker-graphs.1325af85.png": "/react-portfolio/static/media/workout-tracker-graphs.1325af85.png",
+    "static/media/workout-tracker-landing.bac6a706.png": "/react-portfolio/static/media/workout-tracker-landing.bac6a706.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.984efb39.js",
-    "static/js/2.ded37f8f.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.03fe0038.chunk.js"
+    "static/js/runtime-main.7686de59.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.86a6259a.chunk.js",
+    "static/css/main.6a89de99.chunk.css",
+    "static/js/main.c9b3e645.chunk.js"
   ]
 }
