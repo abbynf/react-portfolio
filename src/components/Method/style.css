@@ -1,0 +1,22 @@
+h1.portHead {
+    font-family:'Raleway@weight:700', sans-serif;
+    /* My chosen margin is so large that Bootstrap's default classes aren't large enough.
+    As soon as I learn Sass, I can add more sizes to by adding entries to the Sass map variable */
+    margin-top: 15%;
+    margin-bottom: 40px;
+    font-size: 5rem;
+}
+
+.contactIcon {
+    text-shadow: 2px 2px black;
+    font-size: 100px;
+    color: white;
+}
+
+.contactIcon:hover {
+    color: #cecece
+}
+
+.contactIcon:active {
+    text-shadow: none;
+}
