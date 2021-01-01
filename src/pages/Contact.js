@@ -52,7 +52,17 @@ class Contact extends Component {
                 </header>
                 <main className="row">
 
-                    <Method />
+                    {this.state.methods.map((method) => {
+                        return (
+                            <Method 
+                                key={method.id}
+                                link={method.link}
+                                icon={method.icon}
+                                title={method.title}
+                                handle={method.handle}
+                            />
+                        )
+                    })}
 
                 </main>
 
