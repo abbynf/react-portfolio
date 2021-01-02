@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.6a89de99.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.c9b3e645.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.c9b3e645.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.6c4b4e3f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6c4b4e3f.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.7686de59.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7686de59.js.map",
     "static/css/2.95f25948.chunk.css": "/react-portfolio/static/css/2.95f25948.chunk.css",
@@ -17,9 +17,13 @@
     "static/media/brick-headshot.7bd671d8.png": "/react-portfolio/static/media/brick-headshot.7bd671d8.png",
     "static/media/invitr-landing-page.f0c28c0e.png": "/react-portfolio/static/media/invitr-landing-page.f0c28c0e.png",
     "static/media/invitr-summary.b4b8e9da.png": "/react-portfolio/static/media/invitr-summary.b4b8e9da.png",
+    "static/media/landing-page.0e284f1e.png": "/react-portfolio/static/media/landing-page.0e284f1e.png",
     "static/media/national-parks-app-cards.6afb4125.png": "/react-portfolio/static/media/national-parks-app-cards.6afb4125.png",
     "static/media/national-parks-app.a4041248.png": "/react-portfolio/static/media/national-parks-app.a4041248.png",
+    "static/media/output.cb8b279b.png": "/react-portfolio/static/media/output.cb8b279b.png",
+    "static/media/questions.b603893e.png": "/react-portfolio/static/media/questions.b603893e.png",
     "static/media/App.css": "/react-portfolio/static/media/smaller-berger.f17bf190.jpg",
+    "static/media/tokyo.7e996afd.png": "/react-portfolio/static/media/tokyo.7e996afd.png",
     "static/media/workout-tracker-graphs.1325af85.png": "/react-portfolio/static/media/workout-tracker-graphs.1325af85.png",
     "static/media/workout-tracker-landing.bac6a706.png": "/react-portfolio/static/media/workout-tracker-landing.bac6a706.png"
   },
@@ -28,6 +32,6 @@
     "static/css/2.95f25948.chunk.css",
     "static/js/2.86a6259a.chunk.js",
     "static/css/main.6a89de99.chunk.css",
-    "static/js/main.c9b3e645.chunk.js"
+    "static/js/main.6c4b4e3f.chunk.js"
   ]
 }
