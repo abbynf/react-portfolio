@@ -8,6 +8,8 @@ import img5 from './../assets/project-caps/workout-tracker/workout-tracker-landi
 import img6 from './../assets/project-caps/workout-tracker/workout-tracker-graphs.png';
 import img7 from './../assets/project-caps/budget-tracker/Budget-Tracker-landing.png';
 import img8 from './../assets/project-caps/budget-tracker/Budget-Tracker-sw.png';
+import img9 from './../assets/project-caps/employee-directory-generator/questions.png';
+import img10 from './../assets/project-caps/employee-directory-generator/output.png';
 
 
 class Portfolio extends Component {
@@ -96,7 +98,7 @@ class Portfolio extends Component {
                         {
                             id: 207,
                             text: "Email: example@email.com",
-    
+
                         },
                         {
                             id: 208,
@@ -232,18 +234,18 @@ class Portfolio extends Component {
                         id: 414,
                         text: "express.js"
                     },
-                     {
+                    {
                         id: 415,
                         text: "MongoDB"
-                     },
-                     {
+                    },
+                    {
                         id: 416,
                         text: "Mongoose"
-                     }, 
-                     {
-                         id: 417,
-                         text: "MongoDB Atlas"
-                     }],
+                    },
+                    {
+                        id: 417,
+                        text: "MongoDB Atlas"
+                    }],
                     applicationLink: "https://murmuring-dusk-28274.herokuapp.com/?id=5fcd0b8049470700176434ce",
                     repoLink: "https://github.com/abbynf/workout-tracker"
                 },
@@ -327,6 +329,54 @@ class Portfolio extends Component {
                     }],
                     applicationLink: "https://ancient-ravine-55722.herokuapp.com/",
                     repoLink: "https://github.com/abbynf/budget-tracker"
+                },
+                {
+                    id: 4,
+                    img1src: img9,
+                    img1alt: "Screenshot of the questions asked by the generator",
+                    img2src: img10,
+                    img2alt: "Screenshot of the web page generated",
+                    title: "Employee Directory Generator",
+                    paragraphs: [
+                        {
+                            id: 216,
+                            text: "This application asks the user a series of questions about employees. The questions asked depend on what kind of employee is being described. There are three employee types: managers, engineers, and interns. After all of the employees have been described, the application creates an html page with all of the information displayed."
+                        },
+                        {
+                            id: 217,
+                            text: "This application was a full-stack application. The questions are asked in the command line and the html file is generated within the application."
+                        },
+                        {
+                            id: 218,
+                            text: "To use this application, the code must be forked from the github repository and ran in a node environment."
+                        }
+                    ],
+                    techitems1: [
+                        {
+                            id: 327,
+                            text: "HTML"
+                        },
+                        {
+                            id: 328,
+                            text: "CSS"
+                        },
+                        {
+                            id: 329,
+                            text: "Bootstrap"
+                        }
+                    ],
+                    techitems2: [
+                        {
+                            id: 425,
+                            text: "node.js"
+                        },
+                        {
+                            id: 425,
+                            text: "Inquirer"
+                        }
+                    ],
+                    applicationLink: "#",
+                    repoLink: "https://github.com/abbynf/employee-roster-generator"
                 }
             ]
         }
