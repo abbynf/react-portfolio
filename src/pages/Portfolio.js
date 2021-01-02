@@ -10,6 +10,8 @@ import img7 from './../assets/project-caps/budget-tracker/Budget-Tracker-landing
 import img8 from './../assets/project-caps/budget-tracker/Budget-Tracker-sw.png';
 import img9 from './../assets/project-caps/employee-directory-generator/questions.png';
 import img10 from './../assets/project-caps/employee-directory-generator/output.png';
+import img11 from './../assets/project-caps/weather-tracker/landing-page.png';
+import img12 from './../assets/project-caps/weather-tracker/tokyo.png';
 
 
 class Portfolio extends Component {
@@ -368,15 +370,72 @@ class Portfolio extends Component {
                     techitems2: [
                         {
                             id: 425,
+                            text: "JavaScript"
+
+                        },
+                        {
+                            id: 426,
                             text: "node.js"
                         },
                         {
-                            id: 425,
+                            id: 427,
                             text: "Inquirer"
                         }
                     ],
                     applicationLink: "#",
                     repoLink: "https://github.com/abbynf/employee-roster-generator"
+                },
+                {
+                    id: 5,
+                    img1src: img11,
+                    img1alt: "Search results for Chicago",
+                    img2src: img12,
+                    img2alt: "Search results for Tokyo",
+                    title: "Weather Dashboard",
+                    paragraphs: [
+                        {
+                            id: 219,
+                            text: "This application allows the user to see the weather predictions for the next week for any city. After searching for the city, the city is saved on the left-hand side for easy re-navigation back to the results."
+                        },
+                        {
+                            id: 220,
+                            text: "This application is front-end only."
+                        }
+                    ],
+                    techitems1: [
+                        {
+                            id: 330,
+                            text: "HTML"
+                        },
+                        {
+                            id: 331,
+                            text: "CSS"
+                        },
+                        {
+                            id: 332,
+                            text: "JavaScript"
+                        },
+                        {
+                            id: 333,
+                            text: "Open Weather API"
+                        }
+                    ],
+                    techitems2: [
+                        {
+                            id: 428,
+                            text: "Bootstrap"
+                        },
+                        {
+                            id: 429,
+                            text: "jQuery"
+                        },
+                        {
+                            id: 430,
+                            text: "moment.js"
+                        }
+                    ],
+                    applicationLink: "https://abbynf.github.io/weather-dashboard/",
+                    repoLink: "https://github.com/abbynf/weather-dashboard"
                 }
             ]
         }
